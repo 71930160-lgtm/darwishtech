@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/darwishtech/static/css/main.cbd77f17.css",
+    "main.js": "/darwishtech/static/js/main.669e6884.js",
+    "index.html": "/darwishtech/index.html",
+    "main.cbd77f17.css.map": "/darwishtech/static/css/main.cbd77f17.css.map",
+    "main.669e6884.js.map": "/darwishtech/static/js/main.669e6884.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbd77f17.css",
+    "static/js/main.669e6884.js"
+  ]
+}
